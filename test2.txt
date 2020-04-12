@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Dmitriy Vladimirovichiii
-=======
-Dmitriy Vladimirov
->>>>>>> newdev
+
+Dmitriy Vladimirovich
+
